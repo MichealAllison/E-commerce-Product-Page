@@ -17,6 +17,13 @@ body {
   margin-right: 250px;
   border-bottom: 1px solid hsl(220, 14%, 75%);
 }
+.menu__icon {
+  display: none;
+}
+
+.close__icon {
+  display: none;
+}
 
 .menu {
   margin-right: auto;
@@ -218,11 +225,6 @@ body {
   background-color: hsl(26, 80%, 55%);
   transition: 0.1s;
 }
-
-/* .add_to_cart_btn img {
-  fill: hsl(0, 0%, 100%);
-  margin-right: 5px;
-} */
 
 .add_to_cart_btn svg path {
   fill: hsl(0, 0%, 100%);
