@@ -233,7 +233,7 @@ body {
 /* Media Query for Mobile */
 @media (max-width: 768px) {
   .body {
-    align-items: center;
+    margin: 10px;
   }
 
   .top__header {
